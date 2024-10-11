@@ -1,3 +1,5 @@
-
-@修改前網站:https://github.com/drawdb-io/drawdb
-@修改後網站:https://stella0320.github.io/drawdb-extention/
+- draw 官網 : [https://www.drawdb.app/](https://www.drawdb.app/)
+- drwadb 官方github : [https://github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+- 我修改後網站 : [https://stella0320.github.io/drawdb-extention/](https://stella0320.github.io/drawdb-extention/)
+    - Note(註解)物件可以用滑鼠調整物件
+    - branch master 可下載到本機端載入 chrome 擴充功能
